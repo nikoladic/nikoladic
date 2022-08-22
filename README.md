@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vitaly
+- 👋 Hi, I’m yurii226
 - 👀 I’m interested in software engineering, blockchain, smart-contract, trading
 - 🌱 I’m currently learning dapp
 - 💞️ I’m looking to collaborate on high-tech community
-- 📫 How to reach me. email: prosunny296@gmail.com
+- 📫 How to reach me. email: yuriichik26@hotmail.com
