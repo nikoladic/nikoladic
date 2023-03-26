@@ -1,5 +1,5 @@
-- 👋 Hi, I’m yurii226
-- 👀 I’m interested in software engineering, blockchain, smart-contract, trading
-- 🌱 I’m currently learning dapp
+- 👋 Hi, I’m Nikola
+- 👀 I’m interested in software engineering, backend, app development, smart-contract
+- 🌱 I’m currently learning new technology and languages
 - 💞️ I’m looking to collaborate on high-tech community
-- 📫 How to reach me. email: yuriichik26@hotmail.com
+- 📫 How to reach me. email: nikoladicevic@gmail.com
